@@ -3,7 +3,7 @@ import React from 'react';
 import { Container, Title, ExpandIcon } from './styles'
 
 
-const ServerName: React.FC = () => {
+const ChannelData: React.FC = () => {
     return (
         <Container>
             <Title>Uzamigu</Title>
@@ -13,4 +13,4 @@ const ServerName: React.FC = () => {
     );
 };
 
-export default ServerName;
+export default ChannelData;
