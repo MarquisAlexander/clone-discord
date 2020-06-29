@@ -1,3 +1,46 @@
+<h2 align="center">
+  🚀 Clone-Discord
+</h2>
+
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-informações">Informações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>
+</p>
+
+
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/en/)
+
+Extras:
+
+- Main Libs
+  - [styled-components](https://styled-components.com/)
+
+## 🤔 Informações
+
+Esse projeto foi desenvolvido baseado na aula: Recriando a Interface do Discord com ReactJS | UI Clone da rockeseat.
+
+## 🖼 Layout
+![Captura de Tela (8)](https://user-images.githubusercontent.com/51330232/86011685-64598000-b9f3-11ea-9ec4-4a642774d888.png)
+
+
+
+### :muscle: Quem deu aquela força para não desistir?
+
+O pessoal da Rocketseat deram aquela mão quando as coisas ficaram ruins e me salvaram, sem me deixar desistir!
+Entrem na [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRAFhc)
+
+README feito com ❤️ by **Meus amigos e MarquisAlexander**
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
